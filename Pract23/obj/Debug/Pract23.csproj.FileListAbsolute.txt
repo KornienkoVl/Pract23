@@ -1,0 +1,11 @@
+D:\Morfall\c++\Pract23\Pract23\bin\Debug\Pract23.exe.config
+D:\Morfall\c++\Pract23\Pract23\bin\Debug\Pract23.exe
+D:\Morfall\c++\Pract23\Pract23\bin\Debug\Pract23.pdb
+D:\Morfall\c++\Pract23\Pract23\obj\Debug\Pract23.csproj.AssemblyReference.cache
+D:\Morfall\c++\Pract23\Pract23\obj\Debug\Pract23.csproj.SuggestedBindingRedirects.cache
+D:\Morfall\c++\Pract23\Pract23\obj\Debug\Pract23.Properties.Resources.resources
+D:\Morfall\c++\Pract23\Pract23\obj\Debug\Pract23.csproj.GenerateResource.cache
+D:\Morfall\c++\Pract23\Pract23\obj\Debug\Pract23.csproj.CoreCompileInputs.cache
+D:\Morfall\c++\Pract23\Pract23\obj\Debug\Pract23.exe
+D:\Morfall\c++\Pract23\Pract23\obj\Debug\Pract23.pdb
+D:\Morfall\c++\Pract23\Pract23\obj\Debug\Pract23.Form1.resources
